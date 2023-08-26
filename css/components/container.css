@@ -1,0 +1,24 @@
+.container-top{
+  width: 650px;
+  margin: auto;
+}
+.container-top h1{
+  color:aliceblue;
+  text-align: center;
+
+}
+.container-top p{
+  color:aliceblue;
+}
+.container-btn{
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.container-cards h2{
+  text-align: center;
+  background-color: aquamarine;
+}
